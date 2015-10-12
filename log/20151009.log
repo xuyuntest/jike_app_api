@@ -1,0 +1,5 @@
+2015-10-09 17:10:17 login_common.py [line:32] INFO The result is fail
+{"code":200,"msg":"ok","data":{"user":{"uid":3574506,"token":"9f09e00307ce07893c43b94960fed288","code":"F03UYA","uname":"jike_ssfggg019","email":"ssfggg019@163.com","avatar":"","email_status":0,"phone_status":0,"custom_status":1},"vip":{"auth_level":3,"vip_start_time":"2015-06-10","vip_end_time":"2022-04-03","vip_left_time":"还剩2368天"}}}
+2015-10-09 17:13:51 login_common.py  The result is true
+2015-10-09 17:13:56 login_common.py [line:32] INFO The result is fail
+{"code":200,"msg":"ok","data":{"user":{"uid":3574506,"token":"3cc527e3418e23f521980f1330ce711f","code":"F03UYA","uname":"jike_ssfggg019","email":"ssfggg019@163.com","avatar":"","email_status":0,"phone_status":0,"custom_status":1},"vip":{"auth_level":3,"vip_start_time":"2015-06-10","vip_end_time":"2022-04-03","vip_left_time":"还剩2368天"}}}
