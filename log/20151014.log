@@ -1,0 +1,4 @@
+2015-10-14 10:40:19 list.py  The result is true
+2015-10-14 10:40:19 login_common.py [line:32] INFO The result is fail
+{"code":200,"msg":"ok","data":{"user":{"uid":3574506,"token":"f3835996de87c6667a0e3b461df490be","code":"F03UYA","uname":"jike_ssfggg019","email":"ssfggg019@163.com","avatar":"","email_status":0,"phone_status":0,"custom_status":1},"vip":{"auth_level":3,"vip_start_time":"2015-06-10","vip_end_time":"2022-04-03","vip_left_time":"还剩2364天"}}}
+2015-10-14 10:40:20 group.py  The result is true
