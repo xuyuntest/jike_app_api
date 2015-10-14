@@ -29,7 +29,7 @@ req_host = "api.jikexueyuan.com"
 #response
 expect1 = '200'
 expect2 = 'ok'
-expect3 = '3574506s'
+expect3 = '3574506'
 
 def __init__(self):
         pass
